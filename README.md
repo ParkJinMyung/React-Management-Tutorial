@@ -1,3 +1,8 @@
+## Management System
+본 프로젝트는 React 연습 목적을 위한 고객 관리 시스템(Management System)이다.
+
+<!-- 깃 허브에 올라가 출력될 내용이다. -->
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
